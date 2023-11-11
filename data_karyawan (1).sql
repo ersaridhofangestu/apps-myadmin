@@ -40,31 +40,6 @@ CREATE TABLE `data_karyawan` (
 --
 
 INSERT INTO `data_karyawan` (`id`, `name`, `gender`, `address`, `position`) VALUES
-(1234657902, 'ridho', 'Female', 'JAKARTA', 'DEREKTUR'),
-(1234657904, 'ridho', 'Female', 'JAKARTA', 'DEREKTUR'),
-(1234657905, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657906, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657907, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657908, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657909, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657910, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657911, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657912, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657913, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657914, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657915, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657916, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657917, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657918, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657919, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657920, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657921, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657922, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657923, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657924, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR'),
-(1234657931, 'ersa', 'Male', 'JAKARTA', 'DEREKTUR'),
-(1234657932, 'ersa', 'Male', 'JAKARTA', 'DEREKTUR'),
-(1234657933, 'RIDHO', 'Female', 'BANTUNG', 'DEREKTUR');
 
 --
 -- Indexes for dumped tables
